@@ -2,11 +2,11 @@
 
 A modern, responsive, and professional portfolio website built using **React.js**, **JavaScript**, **HTML5**, and **CSS3**. This project showcases my skills, projects, education, and contact information, serving as my digital portfolio for recruiters, clients, and collaborators.
 
-## 📌 Project Overview
+##  Project Overview
 
 This portfolio website was developed as part of **Future Interns – Full Stack Web Development Internship (Task 1)**. It is designed to provide a clean and interactive user experience while highlighting my technical skills and development projects.
 
-## ✨ Features
+##  Features
 
 - Responsive design for desktop, tablet, and mobile devices
 - Modern and professional user interface
@@ -22,14 +22,14 @@ This portfolio website was developed as part of **Future Interns – Full Stack 
 - SEO-friendly HTML structure
 - Clean and reusable React components
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -61,7 +61,7 @@ src/
 └── main.jsx
 ```
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository
 
@@ -93,7 +93,7 @@ npm run dev
 http://localhost:5173
 ```
 
-## 📷 Screenshots
+##  Screenshots
 
 Add screenshots of your portfolio here after deployment.
 
@@ -103,7 +103,7 @@ Add screenshots of your portfolio here after deployment.
 - Projects Section
 - Contact Section
 
-## 🌐 Live Demo
+##  Live Demo
 
 Add your deployed portfolio link here.
 
@@ -111,21 +111,21 @@ Add your deployed portfolio link here.
 https://your-portfolio-link.com
 ```
 
-## 📁 GitHub Repository
+##  GitHub Repository
 
 ```
 https://github.com/your-username/your-repository-name
 ```
 
-## 👩‍💻 Author
+##  Author
 
-**Chinthapatla Varsha**
+**Chinthapatla Sudheer**
 
 - GitHub: https://github.com/VarshaChinthapatla
 - LinkedIn: Add your LinkedIn profile URL
-- Email: Add your email address
+- Email:chintapatlasudheernaidu@gmail.com
 
-## 📜 License
+##  License
 
 This project is created for educational and portfolio purposes as part of the **Future Interns Full Stack Web Development Internship**.
 
