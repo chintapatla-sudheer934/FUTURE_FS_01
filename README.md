@@ -66,13 +66,13 @@ src/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/chintapatla-sudheer934/FUTURE_FS_01.git
 ```
 
 2. Navigate to the project folder
 
 ```bash
-cd your-repository-name
+cd FUTURE_FS_01
 ```
 
 3. Install dependencies
@@ -98,23 +98,37 @@ http://localhost:5173
 Add screenshots of your portfolio here after deployment.
 
 - Home Page
+  <img width="1900" height="906" alt="Screenshot 2026-07-13 182942" src="https://github.com/user-attachments/assets/23b72314-6d7c-4381-9832-1c69bdf1745c" />
+
 - About Section
+  <img width="1887" height="906" alt="Screenshot 2026-07-13 182959" src="https://github.com/user-attachments/assets/dedc266b-5fd0-4e99-ac5f-ce5d9f5659b8" />
+
 - Skills Section
+  <img width="1882" height="896" alt="Screenshot 2026-07-13 183010" src="https://github.com/user-attachments/assets/f67faf87-01a8-4490-939c-c204a4f927a8" />
+  <img width="1898" height="910" alt="Screenshot 2026-07-13 183019" src="https://github.com/user-attachments/assets/be956ffb-7136-4d8d-bfd3-6b9ef706fbac" />
+
 - Projects Section
+  <img width="1907" height="906" alt="Screenshot 2026-07-13 183032" src="https://github.com/user-attachments/assets/0abf985f-bf3f-429b-be79-c549526eb10c" />
+  
+-Resume Section
+<img width="1905" height="908" alt="Screenshot 2026-07-13 183104" src="https://github.com/user-attachments/assets/697def26-9a41-425e-aa5e-6d6b1779e9c4" />
+
 - Contact Section
+  <img width="1903" height="908" alt="Screenshot 2026-07-13 183121" src="https://github.com/user-attachments/assets/f1ef0ad5-9855-49e2-b4fa-0df3befcec7f" />
+
 
 ##  Live Demo
 
 Add your deployed portfolio link here.
 
 ```
-https://your-portfolio-link.com
+https://personalportfolio-pink-ten.vercel.app/
 ```
 
 ##  GitHub Repository
 
 ```
-https://github.com/your-username/your-repository-name
+https://github.com/chintapatla-sudheer934/FUTURE_FS_01.git
 ```
 
 ##  Author
@@ -122,7 +136,7 @@ https://github.com/your-username/your-repository-name
 **Chinthapatla Sudheer**
 
 - GitHub: https://github.com/VarshaChinthapatla
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: https://www.linkedin.com/in/chintapatla-sudheer-naidu-b04353349/
 - Email:chintapatlasudheernaidu@gmail.com
 
 ##  License
