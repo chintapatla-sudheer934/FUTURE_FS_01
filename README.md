@@ -133,7 +133,7 @@ https://github.com/chintapatla-sudheer934/FUTURE_FS_01.git
 
 ##  Author
 
-**Chinthapatla Sudheer**
+**Chintapatla Sudheer**
 
 - GitHub: https://github.com/VarshaChinthapatla
 - LinkedIn: https://www.linkedin.com/in/chintapatla-sudheer-naidu-b04353349/
