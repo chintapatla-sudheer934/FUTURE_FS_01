@@ -119,7 +119,7 @@ Add screenshots of your portfolio here after deployment.
 
 ##  Live Demo
 
-Add your deployed portfolio link here.
+ deployed portfolio link here.
 
 ```
 https://personalportfolio-pink-ten.vercel.app/
